@@ -46,3 +46,5 @@ app.*.map.json
 /android/app/release
 GoogleService-Info-debug.plist
 google-services-debug.json
+
+/keys
