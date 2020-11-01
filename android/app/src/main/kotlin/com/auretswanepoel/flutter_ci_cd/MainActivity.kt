@@ -1,4 +1,4 @@
-package com.auretswanepoel.flutter_ci_cd
+package com.auretswanepoel.flutterCiCd
 
 import io.flutter.embedding.android.FlutterActivity
 
